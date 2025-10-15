@@ -11,6 +11,8 @@ Notes:
 
 This version supports MyGames PC version only. 
 
+The game language MUST be set to English for the bot to work, next update it will be compatible with all languages
+
 The bot may stop when you have selected ticket use in Halls of Destiny and have no tickets. This should be resolved soon [Fixed 10/Aug/2025]
 
 
